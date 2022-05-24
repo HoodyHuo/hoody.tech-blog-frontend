@@ -1,5 +1,9 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <!-- <NuxtWelcome /> -->
+    <!-- <nuxt-layout> -->
+      <nuxt-page/>
+      <!-- <asdf/> -->
+    <!-- </nuxt-layout> -->
   </div>
 </template>
